@@ -19,7 +19,7 @@ The easiest way to add this library to your PlatformIO project is to add the fol
 
 ```ini
 lib_deps =
-    Ariif0/esp32-polynomial-regressor#v1.0.0
+    https://github.com/Ariif0/espIdf-polynomial-regressor
 ```
 
 ## Quick Start
