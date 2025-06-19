@@ -1,0 +1,13 @@
+{
+  "name": "ESPIDF Polynomial Regressor",
+  "version": "1.0.0",
+  "description": "A C++ library for ESP-IDF to process sensor data using a configurable polynomial regression model.",
+  "keywords": "esp32, esp-idf, sensor, regression, polynomial, filter, non-linear",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NAMA_USER_GITHUB_ANDA/esp32-polynomial-regressor.git"
+  },
+  "license": "MIT",
+  "frameworks": "espidf",
+  "platforms": "espressif32"
+}
