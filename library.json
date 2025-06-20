@@ -5,7 +5,7 @@
   "keywords": "esp32, esp-idf, sensor, regression, polynomial, filter, non-linear",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NAMA_USER_GITHUB_ANDA/esp32-polynomial-regressor.git"
+    "url": "https://github.com/Ariif0/espIdf-polynomial-regressor.git"
   },
   "license": "MIT",
   "frameworks": "espidf",
